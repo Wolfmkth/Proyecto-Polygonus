@@ -62,9 +62,7 @@ Este es mi protecto de identificacion de plantas
  </div> 
 
 ### Facts about me:<br>
-👧 She/Her<br>
-🍚 Vegan Geek<br>
-💻 Java Programmer<br>
+💻 J.Friki<br>
 🔄 Routine : Eat - Sleep - Code - Repeat<br>
 😆 Fun fact: I CODE<br>
 ❤️ Food & Code<br>
